@@ -1,4 +1,4 @@
-# Day 1 HT
+# Day 1
 
 Tags: #html #webdev #w3schools
 
